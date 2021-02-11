@@ -6,9 +6,9 @@ using System.Text;
 
 namespace Petstagram.Server.Data
 {
-    public class ApplicationDbContext : IdentityDbContext
+    public class PetstagramDbContext : IdentityDbContext
     {
-        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
+        public PetstagramDbContext(DbContextOptions<PetstagramDbContext> options)
             : base(options)
         {
         }

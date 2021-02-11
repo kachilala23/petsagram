@@ -11,7 +11,6 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap4")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-Petstagram.Server-7EBA1077-DBC8-4C3D-941A-64161B6AC6A2")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Petstagram.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]

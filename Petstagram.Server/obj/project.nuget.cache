@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3u3UCf/KYcFl1lJ4245l8DRPFiOjw9ehYdfzf/Wilpkir7MRoixA2cUl2yUtzl3x0I4B27YDW95GBXHMJEiEMg==",
+  "dgSpecHash": "gfgvy95NSsXIZdu8iDAw1i2+fOibXiWFI3kONGuOWcQpi4LinRBNxdbVT8gLcZHTle+OvK1DKCUdZ9r/AyQ9EA==",
   "success": true,
   "projectFilePath": "C:\\NetCore\\Petstagram.Server\\Petstagram.Server\\Petstagram.Server.csproj",
   "expectedPackageFiles": [
@@ -9,7 +9,6 @@
     "C:\\Users\\CHIZZY\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\5.0.2\\microsoft.aspnetcore.cryptography.keyderivation.5.0.2.nupkg.sha512",
     "C:\\Users\\CHIZZY\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\5.0.2\\microsoft.aspnetcore.diagnostics.entityframeworkcore.5.0.2.nupkg.sha512",
     "C:\\Users\\CHIZZY\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\5.0.2\\microsoft.aspnetcore.identity.entityframeworkcore.5.0.2.nupkg.sha512",
-    "C:\\Users\\CHIZZY\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.2\\microsoft.aspnetcore.identity.ui.5.0.2.nupkg.sha512",
     "C:\\Users\\CHIZZY\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\CHIZZY\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\CHIZZY\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",
@@ -25,8 +24,6 @@
     "C:\\Users\\CHIZZY\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\CHIZZY\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
     "C:\\Users\\CHIZZY\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
-    "C:\\Users\\CHIZZY\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0\\microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
-    "C:\\Users\\CHIZZY\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\5.0.2\\microsoft.extensions.fileproviders.embedded.5.0.2.nupkg.sha512",
     "C:\\Users\\CHIZZY\\.nuget\\packages\\microsoft.extensions.identity.core\\5.0.2\\microsoft.extensions.identity.core.5.0.2.nupkg.sha512",
     "C:\\Users\\CHIZZY\\.nuget\\packages\\microsoft.extensions.identity.stores\\5.0.2\\microsoft.extensions.identity.stores.5.0.2.nupkg.sha512",
     "C:\\Users\\CHIZZY\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
