@@ -1,13 +1,14 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 
 namespace Petstagram.Server.Controllers
 {
 
     public class HomeController : ApiController
     {
-        //[Authorize]
+        [Authorize]
 
-        public IActionResult Get()
+        public ActionResult Get()
         {
             return Ok("It works");
         }

@@ -11,6 +11,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.IdentityModel.Tokens;
 using Petstagram.Server.Data;
 using Petstagram.Server.Data.Models;
+using Petstagram.Server.Infrastructure;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -35,8 +36,16 @@ namespace Petstagram.Server
 
             services.AddDatabaseDeveloperPageExceptionFilter();
 
-            services.AddIdentity<User, IdentityRole>()
-                .AddEntityFrameworkStores<PetstagramDbContext>();
+            services
+               .AddIdentity<User, IdentityRole>(options =>
+               {
+                   options.Password.RequiredLength = 6;
+                   options.Password.RequireDigit = false;
+                   options.Password.RequireLowercase = false;
+                   options.Password.RequireNonAlphanumeric = false;
+                   options.Password.RequireUppercase = false;
+               })
+               .AddEntityFrameworkStores<PetstagramDbContext>();
 
             var applicationSettingsConfiguration = this.Configuration.GetSection("ApplicationSettings");
             services.Configure<AppSettings>(applicationSettingsConfiguration);
@@ -71,11 +80,12 @@ namespace Petstagram.Server
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
+
             if (env.IsDevelopment())
             {
-                app.UseDatabaseErrorPage();
+                app.UseDeveloperExceptionPage(); 
             }
-         
+
             app.UseRouting();
 
             app.UseCors(options => options
@@ -90,6 +100,8 @@ namespace Petstagram.Server
             {
                 endpoints.MapControllers();
             });
+
+            app.ApplyMigrations(); 
         }
     }
 }
