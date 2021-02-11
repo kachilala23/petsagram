@@ -1,6 +1,5 @@
 C:\NetCore\Petstagram.Server\Petstagram.Server\bin\Debug\net5.0\appsettings.Development.json
 C:\NetCore\Petstagram.Server\Petstagram.Server\bin\Debug\net5.0\appsettings.json
-C:\NetCore\Petstagram.Server\Petstagram.Server\bin\Debug\net5.0\Petstagram.Server.StaticWebAssets.xml
 C:\NetCore\Petstagram.Server\Petstagram.Server\bin\Debug\net5.0\Petstagram.Server.exe
 C:\NetCore\Petstagram.Server\Petstagram.Server\bin\Debug\net5.0\Petstagram.Server.deps.json
 C:\NetCore\Petstagram.Server\Petstagram.Server\bin\Debug\net5.0\Petstagram.Server.runtimeconfig.json
@@ -13,8 +12,6 @@ C:\NetCore\Petstagram.Server\Petstagram.Server\bin\Debug\net5.0\Microsoft.AspNet
 C:\NetCore\Petstagram.Server\Petstagram.Server\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 C:\NetCore\Petstagram.Server\Petstagram.Server\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
 C:\NetCore\Petstagram.Server\Petstagram.Server\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-C:\NetCore\Petstagram.Server\Petstagram.Server\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
-C:\NetCore\Petstagram.Server\Petstagram.Server\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
 C:\NetCore\Petstagram.Server\Petstagram.Server\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
 C:\NetCore\Petstagram.Server\Petstagram.Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
 C:\NetCore\Petstagram.Server\Petstagram.Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -22,7 +19,6 @@ C:\NetCore\Petstagram.Server\Petstagram.Server\bin\Debug\net5.0\Microsoft.Entity
 C:\NetCore\Petstagram.Server\Petstagram.Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\NetCore\Petstagram.Server\Petstagram.Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\NetCore\Petstagram.Server\Petstagram.Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-C:\NetCore\Petstagram.Server\Petstagram.Server\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
 C:\NetCore\Petstagram.Server\Petstagram.Server\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
 C:\NetCore\Petstagram.Server\Petstagram.Server\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
 C:\NetCore\Petstagram.Server\Petstagram.Server\bin\Debug\net5.0\Microsoft.Identity.Client.dll
@@ -31,7 +27,6 @@ C:\NetCore\Petstagram.Server\Petstagram.Server\bin\Debug\net5.0\Microsoft.Identi
 C:\NetCore\Petstagram.Server\Petstagram.Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 C:\NetCore\Petstagram.Server\Petstagram.Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\NetCore\Petstagram.Server\Petstagram.Server\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-C:\NetCore\Petstagram.Server\Petstagram.Server\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\NetCore\Petstagram.Server\Petstagram.Server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
 C:\NetCore\Petstagram.Server\Petstagram.Server\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 C:\NetCore\Petstagram.Server\Petstagram.Server\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
@@ -54,7 +49,6 @@ C:\NetCore\Petstagram.Server\Petstagram.Server\obj\Debug\net5.0\Petstagram.Serve
 C:\NetCore\Petstagram.Server\Petstagram.Server\obj\Debug\net5.0\Petstagram.Server.AssemblyInfoInputs.cache
 C:\NetCore\Petstagram.Server\Petstagram.Server\obj\Debug\net5.0\Petstagram.Server.AssemblyInfo.cs
 C:\NetCore\Petstagram.Server\Petstagram.Server\obj\Debug\net5.0\Petstagram.Server.csproj.CoreCompileInputs.cache
-C:\NetCore\Petstagram.Server\Petstagram.Server\obj\Debug\net5.0\Petstagram.Server.MvcApplicationPartsAssemblyInfo.cs
 C:\NetCore\Petstagram.Server\Petstagram.Server\obj\Debug\net5.0\Petstagram.Server.MvcApplicationPartsAssemblyInfo.cache
 C:\NetCore\Petstagram.Server\Petstagram.Server\obj\Debug\net5.0\staticwebassets\Petstagram.Server.StaticWebAssets.Manifest.cache
 C:\NetCore\Petstagram.Server\Petstagram.Server\obj\Debug\net5.0\staticwebassets\Petstagram.Server.StaticWebAssets.xml
@@ -65,3 +59,4 @@ C:\NetCore\Petstagram.Server\Petstagram.Server\obj\Debug\net5.0\Petstagram.Serve
 C:\NetCore\Petstagram.Server\Petstagram.Server\obj\Debug\net5.0\ref\Petstagram.Server.dll
 C:\NetCore\Petstagram.Server\Petstagram.Server\obj\Debug\net5.0\Petstagram.Server.pdb
 C:\NetCore\Petstagram.Server\Petstagram.Server\obj\Debug\net5.0\Petstagram.Server.genruntimeconfig.cache
+C:\NetCore\Petstagram.Server\Petstagram.Server\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

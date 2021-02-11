@@ -2,9 +2,8 @@
 
 namespace Petstagram.Server.Controllers
 {
-    [ApiController]
-    [Route("[controller]")]
-    public class HomeController : ControllerBase
+
+    public class HomeController : ApiController
     {
         //[Authorize]
 
